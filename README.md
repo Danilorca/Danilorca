@@ -1,5 +1,5 @@
 # 💫 About Me:
-¡Hola! Soy Daniela Lorca, Soy una desarrolladora FullStack MERN y diseñadora UX-UI.<br><br>🔭 Estoy dando mis primeros pasos en desarrollo TI. <br><br> Actualmente estoy en búsqueda de desarrollarme profesionalmente como Front End UI.
+¡Hola! Soy Daniela Lorca, Soy una desarrolladora FullStack MERN y diseñadora UX-UI.<br><br>🔭 Estoy dando mis primeros pasos en desarrollo TI. <br> Actualmente estoy en búsqueda de desarrollarme profesionalmente como Front End UI.
 
 
 ## 🌐 Socials:
